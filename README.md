@@ -1,1 +1,1 @@
-# game-nft-contract-docs
+# supe-nft-contract-docs
